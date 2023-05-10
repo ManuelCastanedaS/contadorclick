@@ -1,0 +1,25 @@
+* {
+    background-color: #91e4e4fb;
+}
+
+.counter {
+    text-align: center;
+    font-size: 3rem;
+    font-style: normal;
+}
+
+.visor {
+    color: blue;
+    font-size: 4rem;
+    font-style: unset;
+}
+
+.btns1 {
+    background-color: rgb(255, 000, 000);
+}
+.btns2 {
+    background-color: rgb(255, 255, 255);
+}
+.btns3 {
+    background-color: rgb(000, 255, 000);
+}
